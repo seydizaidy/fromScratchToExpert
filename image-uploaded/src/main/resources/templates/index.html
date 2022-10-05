@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org" lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form th:action="@{/save}" th:object="${person}" method="post"
+      enctype="multipart/form-data">
+    <label >First name:</label>
+    <input type="text" th:field="*{name}"><br><br>
+    <label >Last name:</label>
+    <input type="file"  th:field="*{photo}" accept="image/png, image/jpeg"><br><br>
+    <input type="submit" value="Submit">
+</form>
+</body>
+</html>
