@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="038a6973-e6fa-479e-a14a-2b5e9d1ee4c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../simple-e-commerce-angular/simple-e-commerce-angular/src/assets/data/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-angular-upload-with-reactive-form/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-angular-upload-with-reactive-form/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-angular-upload-with-reactive-form/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-angular-upload-with-reactive-form/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UserRegistrationSystem" beforeDir="false" afterPath="$PROJECT_DIR$/../../UserRegistrationSystem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../load-save-image-spring-angular/load-image-ang/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../load-save-image-spring-angular/load-image-ang/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../upload-image-theamleaf/src/main/java/com/example/uploadimagetheamleaf/web/MyMainController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../upload-photo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../upload-photo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../upload-photo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../upload-photo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../upload-photo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../upload-photo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../upload-photo/src/main/java/com/uploadphoto/UploadPhotoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../upload-photo/src/main/java/com/uploadphoto/controller/MainController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../upload-photo/src/main/java/com/uploadphoto/domain/Users.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../upload-photo/src/main/java/com/uploadphoto/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../upload-photo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../upload-photo/src/main/resources/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../upload-photo/src/test/java/com/uploadphoto/UploadPhotoApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2FlBXOGm84HsrCtHiIzsC0e5hbT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="038a6973-e6fa-479e-a14a-2b5e9d1ee4c5" name="Default Changelist" comment="" />
+      <created>1665056828069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665056828069</updated>
+      <workItem from="1665056836917" duration="189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="39" key="#Project_Structure" timestamp="1665056859224">
+      <screen x="0" y="40" width="1280" height="760" />
+    </state>
+    <state x="121" y="39" key="#Project_Structure/0.40.1280.760@0.40.1280.760" timestamp="1665056859224" />
+    <state x="422" y="162" key="FileChooserDialogImpl" timestamp="1665057010694">
+      <screen x="0" y="40" width="1280" height="760" />
+    </state>
+    <state x="422" y="162" key="FileChooserDialogImpl/0.40.1280.760@0.40.1280.760" timestamp="1665057010694" />
+    <state x="65" y="81" key="new project wizard" timestamp="1665057023278">
+      <screen x="0" y="40" width="1280" height="760" />
+    </state>
+    <state x="65" y="81" key="new project wizard/0.40.1280.760@0.40.1280.760" timestamp="1665057023278" />
+  </component>
+</project>
